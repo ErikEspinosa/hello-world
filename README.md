@@ -1,5 +1,17 @@
-# hello-world
+# <Erik Espinosa />
 
-I believe in the community and in the use of information technology to change the world. Fascinated by urban cycling and Punk Rock music.
+> I´m a Web/Frontend developer living in Mexico City.
 
-This is a new change.
+---
+## About
+- Galaxy trio (HTML/CSS/JS)
+- React.js <3
+- UI design
+- Punk Rock music
+- Bicycling
+- Travel
+
+---
+## Contact
+- erikespinosar@gmail.com
+- erikespinosar.com
